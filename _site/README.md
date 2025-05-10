@@ -1,0 +1,7 @@
+# Doraimon Site 🌐
+
+This is the official landing site for **Doraimon Apps** — a collection of expressive, privacy-first tools for learners and thinkers, inspired by Doraemon's magical pocket.
+
+The site is built with [GitHub Pages](https://pages.github.com/) and uses the minimal Jekyll theme.
+
+---
