@@ -1,7 +1,6 @@
 ---
 layout: default
-title: false
-footer: false
+title: ""
 ---
 
 # Welcome to Doraimon Apps

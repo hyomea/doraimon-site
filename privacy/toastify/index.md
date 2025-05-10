@@ -1,3 +1,8 @@
+---
+layout: default
+title: ""
+---
+
 # Toastify Privacy Policy
 
 _Last updated: May 10, 2025_
