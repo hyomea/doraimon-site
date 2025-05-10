@@ -1,0 +1,43 @@
+body {
+  font-family: 'Baloo 2', sans-serif;
+}
+
+
+.hero {
+  padding: 2rem 1rem;
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+.hero h1 {
+  font-family: 'Baloo 2', sans-serif;
+  font-weight: 700;
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+.highlight {
+  font-weight: bold;
+  color: #2261EB;
+}
+.app-section {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+.screenshot-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding: 1rem;
+}
+.screenshot-grid img {
+  width: 200px;
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.section-header {
+  font-family: 'Baloo 2', sans-serif;
+  font-weight: 600;
+  margin-top: 3rem;
+  font-size: 2rem;
+}

@@ -3,31 +3,50 @@ layout: default
 title: ""
 ---
 
-# Welcome to Doraimon Apps
+<link rel="stylesheet" href="/assets/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700&display=swap" rel="stylesheet">
 
-Inspired by my favorite companion, Doraemon, we build thoughtful, privacy-first tools for learners and thinkers — like a magic pocket, always ready to help.
+<div class="hero">
+   <img src="/assets/doraimon.png" alt="DorAImon Logo" style="width: 180px; margin-bottom: 1rem;" />
+  <h2>"An AI with heart, inspired by a childhood friend."</h2>
 
-Whether you're expressing yourself, learning new languages, or organizing your thoughts, our apps adapt to *you* — quietly, securely, and on your terms.
-
+  <p>
+    At DorAImon Apps, we believe AI shouldn’t replace you — it should <span class="highlight">stand beside</span> you.
+  </p>
+  <p>
+    Just like Doraemon was to Nobita: a loyal companion, a trusted presence, a thoughtful nudge, a quiet kind of support that helps you <span class="highlight">try</span>, <span class="highlight">stumble</span>, and <span class="highlight">grow</span>.
+  </p>
+  <p>
+    Not every challenge needs a miracle gadget — sometimes, it just takes something that <span class="highlight">understands</span> you.
+  </p>
+  <p>
+    That’s the relationship we’re building between humans and AI: grounded in <span class="highlight">trust</span>, guided by <span class="highlight">privacy</span>, and shaped by <span class="highlight"> who you are </span>.
+  </p>
+</div>
 
 ---
-<br/>
-## 📱 App Preview: Toastify
 
-Check out how Toastify helps you speak more naturally and confidently:
-
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <img src="/assets/toastify/1.png" alt="Screenshot 1" style="width: 200px; max-width: 100%;" />
-  <img src="/assets/toastify/2.png" alt="Screenshot 2" style="width: 200px; max-width: 100%;" />
-  <img src="/assets/toastify/3.png" alt="Screenshot 3" style="width: 200px; max-width: 100%;" />
-  <img src="/assets/toastify/4.png" alt="Screenshot 4" style="width: 200px; max-width: 100%;" />
-  <img src="/assets/toastify/5.png" alt="Screenshot 5" style="width: 200px; max-width: 100%;" />
+<div class="app-section">
+  <h2 class="section-header">📱 Begin Our Journey with Toastify</h2>
+  <p>
+    Every journey starts with a single word.  
+    <br />
+    Toastify is here to be your speaking companion — helping you explore, express, and grow with confidence.
+  </p>
+  
+  <div class="screenshot-grid">
+    <img src="/assets/toastify/1.png" alt="Screenshot 1" />
+    <img src="/assets/toastify/2.png" alt="Screenshot 2" />
+    <img src="/assets/toastify/3.png" alt="Screenshot 3" />
+    <img src="/assets/toastify/4.png" alt="Screenshot 4" />
+    <img src="/assets/toastify/5.png" alt="Screenshot 5" />
+  </div>
 </div>
 
 
 ---
 
-<br/>
-## 🔮 Coming Soon
-
-Stay tuned — just like Doraemon’s pocket, there's always more inside.
+<div class="app-section">
+  <h2 class="section-header">🔮 Coming Soon</h2>
+  <p>Stay tuned — just like Doraemon’s pocket, there's always more inside.</p>
+</div>
