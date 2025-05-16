@@ -33,6 +33,12 @@ title: ""
     <br />
     Toastify is here to be your speaking companion — helping you explore, express, and grow with confidence.
   </p>
+
+  <p> 
+    <a href="https://apps.apple.com/us/app/toastify/id6744975419" target="_blank" rel="noopener noreferrer" class="app-store-button">
+      Download on the App Store
+    </a>
+  </p>
   
   <div class="screenshot-grid">
     <img src="/assets/toastify/1.png" alt="Screenshot 1" />
@@ -40,6 +46,8 @@ title: ""
     <img src="/assets/toastify/3.png" alt="Screenshot 3" />
     <img src="/assets/toastify/4.png" alt="Screenshot 4" />
     <img src="/assets/toastify/5.png" alt="Screenshot 5" />
+    <img src="/assets/toastify/7.png" alt="Screenshot 7" />
+
   </div>
 </div>
 
@@ -47,6 +55,6 @@ title: ""
 ---
 
 <div class="app-section">
-  <h2 class="section-header">🔮 Coming Soon</h2>
+  <h2 class="section-header">🌟 Coming Soon</h2>
   <p>Stay tuned — just like Doraemon’s pocket, there's always more inside.</p>
 </div>
